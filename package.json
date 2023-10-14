@@ -1,0 +1,22 @@
+{
+  "name": "ecmaversjs",
+  "version": "1.0.0",
+  "description": "Curso de ECMAScript Historia y Versiones de JavaScript",
+  "main": "notes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ChrisValDev/Curso-ECMAScript-Historia-Versiones-de-JavaScript.git"
+  },
+  "keywords": [
+    "ECMAScript"
+  ],
+  "author": "Christopher Jimenez <jimenez.valverde0805@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChrisValDev/Curso-ECMAScript-Historia-Versiones-de-JavaScript/issues"
+  },
+  "homepage": "https://github.com/ChrisValDev/Curso-ECMAScript-Historia-Versiones-de-JavaScript#readme"
+}
