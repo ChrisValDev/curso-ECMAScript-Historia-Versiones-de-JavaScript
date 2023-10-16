@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/ChrisValDev/Curso-ECMAScript-Historia-Versiones-de-JavaScript/issues"
   },
-  "homepage": "https://github.com/ChrisValDev/Curso-ECMAScript-Historia-Versiones-de-JavaScript#readme"
+  "homepage": "https://github.com/ChrisValDev/Curso-ECMAScript-Historia-Versiones-de-JavaScript#readme",
+  "type": "module"
 }
